@@ -1,0 +1,5 @@
+Please create a stored procedure first as when the answered script is put in SQL it shows syntax error, however when a procedure is created it runs.
+
+To call the stored procedure:
+
+CALL `e_commerce`.`Supplier_Rating`();
